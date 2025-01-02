@@ -23,4 +23,7 @@ para garantir que apenas atualizações de segurança sejam aplicadas automatica
 com opções adicionais como remoção de dependências não utilizadas e logging detalhado.
 
 Como compilar:
+
+
+
 ![image](https://github.com/user-attachments/assets/a5c66e1b-fd3a-41c8-b555-ba52fea54771)
